@@ -1,0 +1,50 @@
+html {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+  font-family: "Jura", sans-serif;
+}
+.card {
+  margin-bottom: 0;
+}
+.nav {
+  font-size: 20px;
+}
+.img-thumbnail {
+  max-width: 470px;
+}
+p {
+  color: #6c696b;
+}
+
+.navbar-brand {
+  font-size: x-large;
+}
+.nav-link {
+  color: black;
+  max-height: 50px;
+}
+.nav-link:hover {
+  color: #858384;
+}
+.form-control {
+  font-size: smaller;
+}
+p {
+  font-weight: normal;
+  color: black;
+  margin: 0;
+}
+footer {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 10px;
+  height: 70px;
+  border-top: 3px solid darkgrey;
+  background-color: white;
+}

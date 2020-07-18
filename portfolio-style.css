@@ -1,0 +1,50 @@
+html {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1465173121987-373740a169b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  font-family: "Jura", sans-serif;
+}
+.card {
+  margin-bottom: 0;
+}
+.navbar-brand {
+  font-size: x-large;
+}
+.nav {
+  font-size: 20px;
+}
+.nav-link {
+  color: black;
+  max-height: 50px;
+}
+.nav-link:hover {
+  color: #858384;
+}
+p {
+  font-weight: normal;
+  color: black;
+  margin: 0;
+}
+.img-thumbnail {
+  height: 150px;
+  width: 250px;
+}
+.projects {
+  background: rgba(255, 255, 255, 0.7);
+}
+footer {
+  padding-top: 15px;
+  text-align: center;
+  height: 70px;
+  border-top: 3px solid darkgrey;
+  background-color: #e6e4e6;
+}

@@ -1,0 +1,63 @@
+html {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url(assets/me-nature.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  font-family: "Jura", sans-serif;
+}
+#container-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: auto;
+  opacity: 0.6;
+}
+.card {
+  margin-bottom: 0;
+}
+h1 {
+  font-weight: bolder;
+}
+#image {
+  max-width: 400px;
+}
+.bio {
+  background: rgba(255, 255, 255, 0.5);
+}
+p {
+  font-weight: normal;
+  color: black;
+  margin: 0;
+}
+.navbar {
+  text-align: center;
+}
+.navbar-brand {
+  font-size: x-large;
+}
+.nav {
+  font-size: 20px;
+}
+.nav-link {
+  color: black;
+  max-height: 50px;
+}
+.nav-link:hover {
+  color: #858384;
+}
+footer {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 10px;
+  height: 70px;
+  border-top: 3px solid darkgrey;
+  background-color: white;
+}
