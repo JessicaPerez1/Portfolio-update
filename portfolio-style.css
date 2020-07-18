@@ -4,7 +4,7 @@ html {
   width: 100%;
 }
 body {
-  background-image: url(https://images.unsplash.com/photo-1465173121987-373740a169b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-image: url(https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ p {
   width: 250px;
 }
 .projects {
-  background: rgba(255, 255, 255, 0.7);
+  padding-bottom: 10px;
 }
 footer {
   padding-top: 15px;

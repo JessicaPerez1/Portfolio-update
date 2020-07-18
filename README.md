@@ -21,7 +21,7 @@ I did not use media queries.
 ## Project submissions
 
 - The URLs of the deployed applications:
-  [Deployed app URL]()
+  [Deployed app URL](https://jessicaperez1.github.io/Portfolio-update/.)
 
 - The URLs of the GitHub repositories:
-  [GitHub repository URL]()
+  [GitHub repository URL](https://github.com/JessicaPerez1/Portfolio-update.git)
