@@ -26,13 +26,6 @@ body {
 .nav {
   font-size: 20px;
 }
-.img-thumbnail {
-  max-width: 470px;
-}
-p {
-  color: #6c696b;
-}
-
 .navbar-brand {
   font-size: x-large;
 }
@@ -43,8 +36,20 @@ p {
 .nav-link:hover {
   color: #858384;
 }
-.form-control {
-  font-size: smaller;
+.form {
+  background: rgba(199, 200, 195, 0.4);
+  border-radius: 0.4rem;
+  padding: 0;
+}
+p {
+  color: #6c696b;
+}
+
+.label {
+  font-size: medium;
+}
+input[placeholder] {
+  font-size: small;
 }
 p {
   font-weight: normal;
