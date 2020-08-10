@@ -14,14 +14,14 @@ I did not use media queries.
 
 ### Project screenshots
 
-![About page screenshot]()
-![Portfolio page screenshot]()
-![Contact page screenshot]()
+![About page screenshot](assets/screenshots/about-page.png)
+![Portfolio page screenshot](assets/screenshots/portfolio-page.png)
+![Contact page screenshot](assets/screenshots/contact-page.png)
 
 ## Project submissions
 
-- The URLs of the deployed applications:
+- The URL of the deployed application:
   [Deployed app URL](https://jessicaperez1.github.io/Portfolio-update/.)
 
-- The URLs of the GitHub repositories:
+- The URL of the GitHub repository:
   [GitHub repository URL](https://github.com/JessicaPerez1/Portfolio-update.git)
