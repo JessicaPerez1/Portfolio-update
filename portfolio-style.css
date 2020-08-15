@@ -4,10 +4,10 @@ html {
   width: 100%;
 }
 body {
-  background-image: url(https://images.unsplash.com/photo-1555134473-a8e88487e828?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80);
+  /* background-image: url(https://images.unsplash.com/photo-1555134473-a8e88487e828?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80);
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
   margin: 0px;
   height: 100%;
   width: 100%;
@@ -25,6 +25,12 @@ body {
 .nav-link {
   color: black;
   max-height: 50px;
+}
+.name {
+  font-size: 30px;
+}
+.items {
+  padding-top: 17px;
 }
 .nav-link:hover {
   color: #858384;
@@ -48,5 +54,5 @@ footer {
   text-align: center;
   height: 70px;
   border-top: 3px solid darkgrey;
-  background-color: #e6e4e6;
+  background-color: white;
 }

@@ -4,10 +4,10 @@ html {
   width: 100%;
 }
 body {
-  /* background-image: url(assets/me-nature.jpg);
+  background-image: url(assets/me-nature.jpg);
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
   margin: 0px;
   height: 100%;
   width: 100%;
@@ -35,9 +35,6 @@ h1 {
 #image {
   max-width: 400px;
 }
-.hunter {
-  width: 350px;
-}
 /* .bio {
   background: rgba(255, 255, 255, 0.4);
   padding-bottom: 30px;
@@ -50,6 +47,7 @@ p {
 }
 .navbar {
   text-align: center;
+  background-color: white;
 }
 .navbar-brand {
   font-size: x-large;
@@ -63,10 +61,6 @@ p {
 }
 .nav-link:hover {
   color: #858384;
-}
-.bio {
-  text-align: center;
-  padding: 10px 150px 10px 150px;
 }
 footer {
   padding-top: 15px;

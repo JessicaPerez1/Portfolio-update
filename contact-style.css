@@ -36,6 +36,15 @@ body {
 .nav-link:hover {
   color: #858384;
 }
+.navbar {
+  background-color: white;
+}
+.name {
+  font-size: 30px;
+}
+.items {
+  padding-top: 17px;
+}
 .form {
   background: rgba(199, 200, 195, 0.4);
   border-radius: 0.4rem;
